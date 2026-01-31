@@ -34,7 +34,7 @@ An intelligent Streamlit application that uses computer vision and natural langu
 
 ```bash
 git clone https://github.com/somumahadev/AI-Vision-Recipe-Generator.git
-cd ai-vision-recipe-generator
+cd AI-Vision-Recipe-Generator
 ```
 
 ### 2. Create Virtual Environment
