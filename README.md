@@ -33,7 +33,7 @@ An intelligent Streamlit application that uses computer vision and natural langu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-vision-recipe-generator.git
+git clone https://github.com/somumahadev/ai-vision-recipe-generator.git
 cd ai-vision-recipe-generator
 ```
 
@@ -270,8 +270,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Author**: Somanna M
 - **Email**: Somudotm@gmail.com
-- **GitHub**: [@yourusername](https://github.com/somumahadev)
-- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/somanna-m/)
+- **GitHub**: [@somumahadev](https://github.com/somumahadev)
+- **LinkedIn**: [somanna-m](https://www.linkedin.com/in/somanna-m/)
 
 ## 🗺️ Roadmap
 
