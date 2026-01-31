@@ -268,10 +268,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **Author**: Somanna M
+- **Email**: Somudotm@gmail.com
+- **GitHub**: [@yourusername](https://github.com/somumahadev)
+- **LinkedIn**: [Your Profile](https://www.linkedin.com/in/somanna-m/)
 
 ## 🗺️ Roadmap
 
@@ -298,6 +298,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ and 🤖 by [Your Name](https://github.com/yourusername)
+Made with ❤️ and 🤖 by Somanna M (https://github.com/somumahadev)
 
 **If you find this project helpful, please give it a ⭐!**
