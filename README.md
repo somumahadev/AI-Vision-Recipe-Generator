@@ -33,7 +33,7 @@ An intelligent Streamlit application that uses computer vision and natural langu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/somumahadev/ai-vision-recipe-generator.git
+git clone https://github.com/somumahadev/AI-Vision-Recipe-Generator.git
 cd ai-vision-recipe-generator
 ```
 
